@@ -1,0 +1,348 @@
+{
+    "products": [
+      {
+        "productName": "Snacks & Drinks",
+        "subcategory": [
+          {
+            "subcategoryId": "1",
+            "subcategoryName": "Chocolate Bar",
+            "subcategoryPrice": 2.99,
+            "subcategoryWeight": "100g",
+            "subcategoryImageUrl": "babyCare.png",
+            "subcategoryDescription": "Rich and creamy milk chocolate."
+          },
+          {
+            "subcategoryId": "2",
+            "subcategoryName": "Soft Drink",
+            "subcategoryPrice": 1.49,
+            "subcategoryWeight": "330ml",
+            "subcategoryImageUrl": "Biscuits.png",
+            "subcategoryDescription": "Refreshing carbonated beverage."
+          },
+          {
+            "subcategoryId": "3",
+            "subcategoryName": "Potato Chips",
+            "subcategoryPrice": 3.49,
+            "subcategoryWeight": "150g",
+            "subcategoryImageUrl": "ColdDrinks.png",
+            "subcategoryDescription": "Crispy and salty potato chips."
+          },
+          {
+            "subcategoryId": "4",
+            "subcategoryName": "Granola Bars",
+            "subcategoryPrice": 4.99,
+            "subcategoryWeight": "200g",
+            "subcategoryImageUrl": "ColdDrinks.png",
+            "subcategoryDescription": "Nutritious bars with oats and nuts."
+          },
+          {
+            "subcategoryId": "5",
+            "subcategoryName": "Trail Mix",
+            "subcategoryPrice": 5.99,
+            "subcategoryWeight": "250g",
+            "subcategoryImageUrl": "currency_rupee.png",
+            "subcategoryDescription": "Mixed nuts, seeds, and dried fruits."
+          },
+          {
+            "subcategoryId": "6",
+            "subcategoryName": "Pretzels",
+            "subcategoryPrice": 3.29,
+            "subcategoryWeight": "180g",
+            "subcategoryImageUrl": "Femalehygiene.png",
+            "subcategoryDescription": "Crunchy, salted pretzels."
+          },
+          {
+            "subcategoryId": "7",
+            "subcategoryName": "Nuts",
+            "subcategoryPrice": 6.49,
+            "subcategoryWeight": "200g",
+            "subcategoryImageUrl": "NoodlesPastaVermi.png",
+            "subcategoryDescription": "Assorted roasted nuts."
+          },
+          {
+            "subcategoryId": "8",
+            "subcategoryName": "Cookies",
+            "subcategoryPrice": 2.79,
+            "subcategoryWeight": "150g",
+            "subcategoryImageUrl": "Rectangle34.png",
+            "subcategoryDescription": "Soft and chewy cookies."
+          },
+          {
+            "subcategoryId": "9",
+            "subcategoryName": "Energy Drinks",
+            "subcategoryPrice": 2.99,
+            "subcategoryWeight": "250ml",
+            "subcategoryImageUrl": "Rectangle35.png",
+            "subcategoryDescription": "Boosts energy with caffeine."
+          },
+          {
+            "subcategoryId": "10",
+            "subcategoryName": "Juice",
+            "subcategoryPrice": 3.49,
+            "subcategoryWeight": "500ml",
+            "subcategoryImageUrl": "Rectangle39.png",
+            "subcategoryDescription": "Refreshing fruit juice."
+          },
+          {
+            "subcategoryId": "11",
+            "subcategoryName": "Popcorn",
+            "subcategoryPrice": 4.29,
+            "subcategoryWeight": "100g",
+            "subcategoryImageUrl": "Rectangle45.png",
+            "subcategoryDescription": "Light and fluffy popcorn."
+          },
+          {
+            "subcategoryId": "12",
+            "subcategoryName": "Tea Bags",
+            "subcategoryPrice": 5.99,
+            "subcategoryWeight": "20 bags",
+            "subcategoryImageUrl": "Rectangle48.png",
+            "subcategoryDescription": "A selection of premium tea bags."
+          },
+          {
+            "subcategoryId": "13",
+            "subcategoryName": "Instant Coffee",
+            "subcategoryPrice": 7.99,
+            "subcategoryWeight": "100g",
+            "subcategoryImageUrl": "Rectangle49.png",
+            "subcategoryDescription": "Quick and easy instant coffee."
+          },
+          {
+            "subcategoryId": "14",
+            "subcategoryName": "Chewing Gum",
+            "subcategoryPrice": 1.29,
+            "subcategoryWeight": "15 pieces",
+            "subcategoryImageUrl": "Rectangle50.png",
+            "subcategoryDescription": "Minty fresh chewing gum."
+          },
+          {
+            "subcategoryId": "15",
+            "subcategoryName": "Jerky",
+            "subcategoryPrice": 8.99,
+            "subcategoryWeight": "100g",
+            "subcategoryImageUrl": "Rectangle52.png",
+            "subcategoryDescription": "Savory and spiced beef jerky."
+          }
+        ]
+      },
+      {
+        "productName": "Beauty & Personal Care",
+        "subcategory": [
+          {
+            "subcategoryId": "16",
+            "subcategoryName": "Face Cream",
+            "subcategoryPrice": 24.99,
+            "subcategoryWeight": "50ml",
+            "subcategoryImageUrl": "Rectangle45.png",
+            "subcategoryDescription": "Moisturizing face cream for daily use."
+          },
+          {
+            "subcategoryId": "17",
+            "subcategoryName": "Shampoo",
+            "subcategoryPrice": 8.99,
+            "subcategoryWeight": "250ml",
+            "subcategoryImageUrl": "Rectangle45.png",
+            "subcategoryDescription": "Cleansing shampoo for all hair types."
+          },
+          {
+            "subcategoryId": "18",
+            "subcategoryName": "Toothpaste",
+            "subcategoryPrice": 3.99,
+            "subcategoryWeight": "100ml",
+            "subcategoryImageUrl": "Sweet.png",
+            "subcategoryDescription": "Whitening and freshening toothpaste."
+          },
+          {
+            "subcategoryId": "19",
+            "subcategoryName": "Body Lotion",
+            "subcategoryPrice": 12.99,
+            "subcategoryWeight": "200ml",
+            "subcategoryImageUrl": "babyCare.png",
+            "subcategoryDescription": "Hydrating body lotion for smooth skin."
+          },
+          {
+            "subcategoryId": "20",
+            "subcategoryName": "Hair Conditioner",
+            "subcategoryPrice": 9.99,
+            "subcategoryWeight": "250ml",
+            "subcategoryImageUrl": "Biscuits.png",
+            "subcategoryDescription": "Conditioner for soft and shiny hair."
+          },
+          {
+            "subcategoryId": "21",
+            "subcategoryName": "Facial Cleanser",
+            "subcategoryPrice": 14.99,
+            "subcategoryWeight": "150ml",
+            "subcategoryImageUrl": "ColdDrinks.png",
+            "subcategoryDescription": "Gentle facial cleanser for a fresh face."
+          },
+          {
+            "subcategoryId": "22",
+            "subcategoryName": "Deodorant",
+            "subcategoryPrice": 5.49,
+            "subcategoryWeight": "150ml",
+            "subcategoryImageUrl": "currency_rupee.png",
+            "subcategoryDescription": "Long-lasting deodorant for daily use."
+          },
+          {
+            "subcategoryId": "23",
+            "subcategoryName": "Sunscreen",
+            "subcategoryPrice": 16.99,
+            "subcategoryWeight": "100ml",
+            "subcategoryImageUrl": "Femalehygiene.png",
+            "subcategoryDescription": "Protective sunscreen with SPF 50."
+          },
+          {
+            "subcategoryId": "24",
+            "subcategoryName": "Lip Balm",
+            "subcategoryPrice": 2.99,
+            "subcategoryWeight": "10g",
+            "subcategoryImageUrl": "Rectangle1000.png",
+            "subcategoryDescription": "Moisturizing lip balm for smooth lips."
+          },
+          {
+            "subcategoryId": "25",
+            "subcategoryName": "Hand Cream",
+            "subcategoryPrice": 7.99,
+            "subcategoryWeight": "75ml",
+            "subcategoryImageUrl": "Rectangle34.png",
+            "subcategoryDescription": "Nourishing hand cream for soft hands."
+          },
+          {
+            "subcategoryId": "26",
+            "subcategoryName": "Nail Polish",
+            "subcategoryPrice": 4.49,
+            "subcategoryWeight": "15ml",
+            "subcategoryImageUrl": "Rectangle35.png",
+            "subcategoryDescription": "Bright and vibrant nail polish."
+          },
+          {
+            "subcategoryId": "27",
+            "subcategoryName": "Shaving Cream",
+            "subcategoryPrice": 6.99,
+            "subcategoryWeight": "100ml",
+            "subcategoryImageUrl": "Rectangle52.png",
+            "subcategoryDescription": "Smooth shaving cream for a close shave."
+          },
+          {
+            "subcategoryId": "28",
+            "subcategoryName": "Eye Cream",
+            "subcategoryPrice": 19.99,
+            "subcategoryWeight": "15ml",
+            "subcategoryImageUrl": "Rectangle48.png",
+            "subcategoryDescription": "Rejuvenating eye cream for dark circles."
+          }
+        ]
+      },
+      {
+        "productName": "Electronics",
+        "subcategory": [
+          {
+            "subcategoryId": "29",
+            "subcategoryName": "Smartphone",
+            "subcategoryPrice": 999.99,
+            "subcategoryWeight": "200g",
+            "subcategoryImageUrl": "Rectangle45.png",
+            "subcategoryDescription": "Latest smartphone with high-resolution display."
+          },
+          {
+            "subcategoryId": "30",
+            "subcategoryName": "Laptop",
+            "subcategoryPrice": 1299.99,
+            "subcategoryWeight": "1.5kg",
+            "subcategoryImageUrl": "NoodlesPastaVermi.png",
+            "subcategoryDescription": "Powerful laptop with high performance."
+          },
+          {
+            "subcategoryId": "31",
+            "subcategoryName": "Smartwatch",
+            "subcategoryPrice": 299.99,
+            "subcategoryWeight": "50g",
+            "subcategoryImageUrl": "Rectangle50.png",
+            "subcategoryDescription": "Smartwatch with fitness tracking features."
+          },
+          {
+            "subcategoryId": "32",
+            "subcategoryName": "Headphones",
+            "subcategoryPrice": 149.99,
+            "subcategoryWeight": "250g",
+            "subcategoryImageUrl": "Rectangle39.png",
+            "subcategoryDescription": "Noise-cancelling headphones for immersive sound."
+          },
+          {
+            "subcategoryId": "33",
+            "subcategoryName": "Tablet",
+            "subcategoryPrice": 499.99,
+            "subcategoryWeight": "400g",
+            "subcategoryImageUrl": "Rectangle48.png",
+            "subcategoryDescription": "Portable tablet with high-definition screen."
+          },
+          {
+            "subcategoryId": "34",
+            "subcategoryName": "Bluetooth Speaker",
+            "subcategoryPrice": 79.99,
+            "subcategoryWeight": "300g",
+            "subcategoryImageUrl": "Rectangle50.png",
+            "subcategoryDescription": "Compact Bluetooth speaker with great sound."
+          },
+          {
+            "subcategoryId": "35",
+            "subcategoryName": "Camera",
+            "subcategoryPrice": 699.99,
+            "subcategoryWeight": "600g",
+            "subcategoryImageUrl": "Rectangle39.png",
+            "subcategoryDescription": "High-resolution camera for professional photos."
+          },
+          {
+            "subcategoryId": "36",
+            "subcategoryName": "External Hard Drive",
+            "subcategoryPrice": 119.99,
+            "subcategoryWeight": "200g",
+            "subcategoryImageUrl": "Rectangle52.png",
+            "subcategoryDescription": "Portable hard drive with high storage capacity."
+          },
+          {
+            "subcategoryId": "37",
+            "subcategoryName": "Smart TV",
+            "subcategoryPrice": 799.99,
+            "subcategoryWeight": "7kg",
+            "subcategoryImageUrl": "Rectangle52.png",
+            "subcategoryDescription": "4K Smart TV with a large screen."
+          },
+          {
+            "subcategoryId": "38",
+            "subcategoryName": "Keyboard",
+            "subcategoryPrice": 49.99,
+            "subcategoryWeight": "500g",
+            "subcategoryImageUrl": "Rectangle49.png",
+            "subcategoryDescription": "Mechanical keyboard with customizable keys."
+          },
+          {
+            "subcategoryId": "39",
+            "subcategoryName": "Mouse",
+            "subcategoryPrice": 29.99,
+            "subcategoryWeight": "150g",
+            "subcategoryImageUrl": "Rectangle48.png",
+            "subcategoryDescription": "Wireless mouse with ergonomic design."
+          },
+          {
+            "subcategoryId": "40",
+            "subcategoryName": "Printer",
+            "subcategoryPrice": 149.99,
+            "subcategoryWeight": "3kg",
+            "subcategoryImageUrl": "Rectangle48.png",
+            "subcategoryDescription": "Multifunction printer with scanning capability."
+          },
+          {
+            "subcategoryId": "41",
+            "subcategoryName": "Router",
+            "subcategoryPrice": 89.99,
+            "subcategoryWeight": "200g",
+            "subcategoryImageUrl": "Rectangle48.png",
+            "subcategoryDescription": "High-speed router for reliable internet."
+          }
+        ]
+      }
+    ]
+  }
+  
